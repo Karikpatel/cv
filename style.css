@@ -1,0 +1,18 @@
+/* myStyle.css */
+
+body {
+  background-color: #CDF0EA;
+ }
+ h1{
+  color: #003638;
+ }
+ h3{
+  color: #753422;
+ }
+ hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: Grey;
+    border-width: 9px;
+    width: 5%;
+ }
